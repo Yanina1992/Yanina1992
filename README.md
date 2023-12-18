@@ -40,11 +40,11 @@ I am currently exploring new opportunities, and I invite you to reach out if you
 
 <a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/css3-alt.svg" alt="css" width="40" height="40" style="max-width: 100%;"> </a>
 
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/html5.svg" alt="html" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/html5.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
 
 <a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/js.svg" alt="js" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
 
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/sass.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/sass.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a>
 
 <a href="#" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
 
