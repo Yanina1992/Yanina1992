@@ -33,4 +33,6 @@ I am currently exploring new opportunities, and I invite you to reach out if you
 [<i class="fa-brands fa-linkedin-in"></i> LinkedIn](https://www.linkedin.com/in/yanina-anahi-aguero-full-stack-developer/) &nbsp;&nbsp;
 <i class="fa-regular fa-envelope"></i>[<i class="fas fa-envelope"></i> Email](mailto:yaninaaguero@hotmail.it)
 
+<i class="fa-regular fa-envelope"></i>
+
 ### Languages and Tools:
