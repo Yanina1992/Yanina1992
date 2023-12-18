@@ -27,7 +27,9 @@ I have a genuine passion for learning, and this journey is only the beginning!
 
 I am currently exploring new opportunities, and I invite you to reach out if you are looking for a reliable team member.
 
-![image](https://github.com/Yanina1992/Yanina1992/blob/main/sfondo%20github.png)
+<!--![image](https://github.com/Yanina1992/Yanina1992/blob/main/sfondo%20github.png)-->
+
+<img align="center" scr="https://github.com/Yanina1992/Yanina1992/blob/main/sfondo%20github.png" alt="yanina" heigh="400" width="400" style="max-width: 100%;"/>
 
 ### 📫 How to reach me:
 <p align="left" dir="auto">
