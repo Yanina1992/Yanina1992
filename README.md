@@ -34,30 +34,4 @@ I am currently exploring new opportunities, and I invite you to reach out if you
 
 ### Languages and Tools:
 
-<p align="left" dir="auto"> <a href="#" rel="nofollow"> <img alt="angular" width="40" height="40" src="https://github.com/Yanina1992/Yanina1992/blob/main/angular.svg" style="max-width: 100%;"> </a>
- 
- <a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/bootstrap.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/css3-alt.svg" alt="css" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/html5.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/js.svg" alt="js" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/sass.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/entity-framework-png.png" alt="ef" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/sqlserver.jpeg" alt="sql-server" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/c%23.png" alt="C#" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/git-alt.svg" alt="github" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/Microsoft-NET-Framework.png" alt=".net" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/jquery-icon-png-7.jpg" alt="jquery" width="40" height="40" style="max-width: 100%;"> </a>
-
-<a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/asp.net.jpeg" alt="asp.net" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;"> </a>  </p>
+<p align="left" dir="auto"> <a href="#" rel="nofollow"> <img alt="angular" width="40" height="40" src="https://github.com/Yanina1992/Yanina1992/blob/main/angular.svg" style="max-width: 100%;"> </a><a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/bootstrap.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a><a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/css3-alt.svg" alt="css" width="40" height="40" style="max-width: 100%;"> </a><a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/html5.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a><a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/js.svg" alt="js" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a><a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/sass.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a><a href="#" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a><a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/sqlserver.jpeg" alt="sql-server" width="40" height="40" style="max-width: 100%;"> </a><a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/c%23.png" alt="C#" width="40" height="40" style="max-width: 100%;"> </a><a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/git-alt.svg" alt="github" width="40" height="40" style="max-width: 100%;"> </a><a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/Microsoft-NET-Framework.png" alt=".net" width="40" height="40" style="max-width: 100%;"> </a><a href="#" rel="nofollow"> <img src="https://github.com/Yanina1992/Yanina1992/blob/main/jquery-icon-png-7.jpg" alt="jquery" width="40" height="40" style="max-width: 100%;"> </a>
