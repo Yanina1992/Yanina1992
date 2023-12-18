@@ -30,7 +30,7 @@ I am currently exploring new opportunities, and I invite you to reach out if you
 <!--![image](https://github.com/Yanina1992/Yanina1992/blob/main/sfondo%20github.png)-->
 
 <p align="left" dir="auto">
-<a href="#" rel="nofollow"><img align="center" src="https://github.com/Yanina1992/Yanina1992/blob/main/code.jpeg" alt="yanina anahi aguero" height="500" width="" style="max-width: 100%;"></a>
+<a href="#" rel="nofollow"><img align="center" src="https://github.com/Yanina1992/Yanina1992/blob/main/code.jpeg" alt="yanina anahi aguero" height="300" width="100%" style="max-width: 100%;"></a>
 </p>
 
 ### 📫 How to reach me:
