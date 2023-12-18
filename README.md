@@ -28,11 +28,9 @@ I have a genuine passion for learning, and this journey is only the beginning!
 I am currently exploring new opportunities, and I invite you to reach out if you are looking for a reliable team member.
 
 ### 📫 How to reach me:
-yaninaaguero@hotmail.it
+### Connect with Me
 
-### Connect with me:
-<a href="(https://www.linkedin.com/in/yanina-anahi-aguero-full-stack-developer/)https://www.linkedin.com/in/yanina-anahi-aguero-full-stack-developer/">
-<i class="fa-brands fa-linkedin-in"></i>
-</a>
+[<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/yanina-anahi-aguero-full-stack-developer/) &nbsp;&nbsp;
+[<i class="fas fa-envelope"></i> Email](mailto:yaninaaguero@hotmail.it)
 
 ### Languages and Tools:
