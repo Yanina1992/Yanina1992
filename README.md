@@ -30,6 +30,7 @@ I am currently exploring new opportunities, and I invite you to reach out if you
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/yanina-anahi-aguero-full-stack-developer/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yanina anahi aguero" height="30" width="40" style="max-width: 100%;"></a>
 
-![Email](<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><polyline points="2 9 12 15 22 9"></polyline></svg>)
+
+![image](https://github.com/Yanina1992/Yanina1992/blob/main/envelope-regular.svg)
 
 ### Languages and Tools:
