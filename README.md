@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Ji5iS6I5P1nU6L+8I3ofY5C3" crossorigin="anonymous">
 </head>
 
-### Hi there 👋, I'm Yanina, a Junior Full-Stack Developer
+## Hi there 👋, I'm Yanina, a Junior Full-Stack Developer
 <!--
 **Yanina1992/Yanina1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,12 +27,12 @@ I have a genuine passion for learning, and this journey is only the beginning!
 
 I am currently exploring new opportunities, and I invite you to reach out if you are looking for a reliable team member.
 
-📫 ## How to reach me:
+### 📫 How to reach me:
 yaninaaguero@hotmail.it
 
-## Connect with me:
+### Connect with me:
 <a href="(https://www.linkedin.com/in/yanina-anahi-aguero-full-stack-developer/)https://www.linkedin.com/in/yanina-anahi-aguero-full-stack-developer/">
 <i class="fa-brands fa-linkedin-in"></i>
 </a>
 
-## Languages and Tools:
+### Languages and Tools:
