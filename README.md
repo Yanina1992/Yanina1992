@@ -28,7 +28,7 @@ I have a genuine passion for learning, and this journey is only the beginning!
 I am currently exploring new opportunities, and I invite you to reach out if you are looking for a reliable team member.
 
 ### 📫 How to reach me:
-<div style= "display: flex">
+<div style= "display: flex; flex-direction: row">
 <a href="https://www.linkedin.com/in/yanina-anahi-aguero-full-stack-developer/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yanina anahi aguero" height="30" width="40" style="max-width: 100%;"></a>
 
 
