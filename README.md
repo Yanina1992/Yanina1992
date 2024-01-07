@@ -1,11 +1,11 @@
-## Hi there 👋, I'm Yanina, a Junior Full-Stack Developer
+## Ciao 👋, sono Yanina, una Junior Full-Stack Developer
 
-I recently completed a full-time web development bootcamp, gaining proficiency in HTML5, CSS, JS, TS, Angular, SCSS, and Bootstrap for the front-end, and C#, .NET, ASP.NET, Web Form, MVC, Entity Framework, jQuery, SQL Server in the latter part of the course.<br/>
-My foundation is now robust enough for independent web application development, and I am equally adept at collaborative teamwork, leveraging tools like GitHub.<br/>
-My project goals center around delivering an intuitive user experience and ensuring a high level of functionality (you can review my works here). And, I must confess, I am a perfectionist.
+Ho recentemente portato a termine un bootcamp full-time di web developmente, grazie al quale ho approfondito le mie conoscenze in HTML5, CSS3, JS, TS, Angular, SCSS, e Bootstrap per quanto riguarda la parte front-end, e in C#, .NET, ASP.NET, Web Form, MVC, Entity Framework, jQuery, SQL Server per quanto riguarda quella back-end.<br/>
+Ad oggi le mie competenze sono abbastanza solide da permettermi di sviluppare applicativi web in completa autonomia, ma ho anche ottime capacità relazionali e collaborative, nonché dimestichezza con i tools necessari per il lavoro di gruppo, come Trello e Github.<br/>
+L'obiettivo che cerco di perseguire nei miei progetti è fondato sull'attenzione alla UX: semplicità, funzionalità ed intuitività sono i paradigmi che regolano il mio codice.<br/>
+Completano il mio profilo una genuina passione per l'apprendimento e una spiccata attenzione ai dettagli.<br/>
 
-I have a genuine passion for learning, and this journey is only the beginning!<br/>
-I am currently exploring new opportunities, and I invite you to reach out if you are looking for a reliable team member.
+Al momento sono aperta a nuove opportunità lavorative: se il vostro team ha bisogno di un membro affidabile non esitate a contattarmi!
 
 <p align="left" dir="auto">
 <a href="#" rel="nofollow"><img align="center" src="https://github.com/Yanina1992/Yanina1992/blob/main/code.jpeg" alt="yanina anahi aguero" height="300" width="100%" style="max-width: 100%;"></a>
