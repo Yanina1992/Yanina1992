@@ -1,8 +1,8 @@
 ## Ciao 👋, sono Yanina, una Junior Full-Stack Developer
 
-Ho recentemente portato a termine un bootcamp full-time grazie al quale ho approfondito le mie conoscenze in HTML5, CSS3, JS, TS, Angular, SCSS, e Bootstrap per quanto riguarda la parte front-end, e in C#, .NET, ASP.NET, Web Form, MVC, Entity Framework, jQuery, SQL Server per quanto riguarda quella back-end.<br/>
+Ho recentemente portato a termine un bootcamp full-time grazie al quale ho approfondito le mie conoscenze in HTML5, CSS3, JS, TS, Angular, SCSS, e Bootstrap per quanto riguarda la parte front-end, e in C#, .NET, ASP.NET, Web Form, MVC, Entity Framework, jQuery, SQL Server per quanto riguarda quella back-end.<hr/>
 Ad oggi le mie competenze sono abbastanza solide da permettermi di sviluppare applicativi web in completa autonomia, ma ho anche ottime capacità relazionali e collaborative, nonché dimestichezza con i tools necessari per il lavoro di gruppo, come Trello e Github.<br/>
-L'obiettivo che cerco di perseguire nei miei progetti è fondato sull'attenzione alla UX: semplicità, funzionalità ed intuitività sono i paradigmi che regolano il mio codice.<br/>
+L'obiettivo che cerco di perseguire nei miei progetti è fondato sull'attenzione alla UX: semplicità, funzionalità ed intuitività sono i paradigmi che regolano il mio codice.
 Completano il mio profilo una genuina passione per l'apprendimento e una spiccata attenzione ai dettagli.<br/>
 
 Al momento sono aperta a nuove opportunità lavorative: se il vostro team ha bisogno di un membro affidabile non esitate a contattarmi!
