@@ -6,7 +6,6 @@ Ad oggi le mie competenze sono abbastanza solide da permettermi di sviluppare ap
 L'obiettivo che cerco di perseguire nei miei progetti è fondato sull'attenzione alla UX: semplicità, funzionalità ed intuitività sono i paradigmi che regolano il mio codice.
 Completano il mio profilo una genuina passione per l'apprendimento e una spiccata attenzione ai dettagli.<br/>
 
-Al momento sono aperta a nuove opportunità lavorative: se il vostro team ha bisogno di un membro affidabile non esitate a contattarmi!
 
 <hr/>
 
