@@ -1,4 +1,4 @@
-## Junior Full-Stack Developer
+## Full-Stack Developer
 
 I'm an enthusiastic full-stack developer with a focus on .NET and especially on Angular.<br/>
 I love bringing my meticulousness to the code I write: I believe clean code and simplicity are the keys through which we can build complexity.<br/>
